@@ -1,13 +1,13 @@
 # code_quiz4
 
-For my fourth [repository](https://github.com/vmidor/code_quiz4) on Github
+My fourth [repository](https://github.com/vmidor/code_quiz4) on Github.
 
 ## Description
 
 This application was built using Javascript & JQuery, HTML, CSS [Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/). A timer-based quiz application that stores high scores client-side.
 
 #
-![screenshopt of the app](assets/screenshot-quiz//Users/screen1.png)
+![screenshopt of the app](assets/screenshot-quiz/screen1.png)
 
 ## Installation
 
@@ -39,4 +39,4 @@ To install this code, download the zip file, or use GitHub's guidelines to clone
 - After the game ends, the user can save their initials and score to a highscores view using local storage.
 
 ##
-![screenshopt of the app](assets/screenshot-quiz//Users/screen2.png)
+![screenshopt of the app](assets/screenshot-quiz/screen2.png)
